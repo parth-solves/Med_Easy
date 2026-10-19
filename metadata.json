@@ -1,0 +1,6 @@
+{
+  "name": "MedLink B2B - Pharmaceutical Availability & Traceability",
+  "description": "Enterprise B2B platform for pharmaceutical verification, GS1 batch traceability, invoice OCR audit, and compliance review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
